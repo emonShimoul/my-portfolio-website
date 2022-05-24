@@ -5,8 +5,7 @@
   ---
 
   Template:  Ner - Personal Portfolio Template.
-  Template URL: http://nero-per.bitballoon.com
-  Author:  design_grid
+  Author:  Shimoul Uddin Emon
   Version: 1.0
 */
 
@@ -102,7 +101,7 @@ $(function () {
   /* typejs
   -------------------------------------------------------*/
   $('.header .caption h2 span').typed({
-    strings: ["Designer","freelancer","Photographer","Web developer"],
+    strings: ["Web Designer","Front-End Developer","Freelancer"],
     loop: true,
     startDelay: 1000,
     backDelay: 2000
