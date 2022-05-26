@@ -1,12 +1,7 @@
 /*-----------------------------------------------------------------
-  [Master Stylesheet]
 
-  Template Name: Ner
-
-  Template URL: http://nero-per.bitballoon.com
-  Description: Ner - Personal Portfolio Template.
-  Author: design_grid
-  Author URL: https://themeforest.net/user/design_grid
+  Description: Personal Portfolio Template.
+  Author: Shimul Uddin Emon
   Version: 1.0
 
   Main Color: #1957f3
@@ -80,8 +75,8 @@ h4 {
 
 button.btn, a.btn {
   position: relative;
-  background-color: #1957f3;
-  border: 1px solid #1957f3;
+  background-color: rebeccapurple;
+  border: 1px solid rebeccapurple;
   padding: 15px 20px;
   -webkit-box-shadow: 0px 4px 38px -6px rgba(0, 0, 0, 0.1);
           box-shadow: 0px 4px 38px -6px rgba(0, 0, 0, 0.1);
@@ -109,7 +104,7 @@ button.btn:after, a.btn:after {
   bottom: -1px;
   left: -1px;
   background-color: #f7f7f7;
-  border: 1px solid #1957f3;
+  border: 1px solid rebeccapurple;
   border-radius: 3px;
   -webkit-transform: scaleX(0);
           transform: scaleX(0);
@@ -119,7 +114,7 @@ button.btn:after, a.btn:after {
 }
 button.btn:hover, a.btn:hover {
   background-color: transparent;
-  border: 1px solid #1957f3;
+  border: 1px solid rebeccapurple;
 }
 button.btn:hover span, a.btn:hover span {
   color: #000;
@@ -130,7 +125,7 @@ button.btn:hover span, a.btn:hover span {
   border-radius: 3px;
 }
 button.btn:hover:after, a.btn:hover:after {
-  border: 1px solid #1957f3;
+  border: 1px solid rebeccapurple;
   -webkit-transform: scaleX(1);
           transform: scaleX(1);
   -webkit-transition-delay: 0s;
@@ -139,11 +134,11 @@ button.btn:hover:after, a.btn:hover:after {
 
 button.btn-light, a.btn-light {
   background-color: transparent;
-  border: 1px solid #1957f3;
+  border: 1px solid rebeccapurple;
   color: #000;
 }
 button.btn-light:after, a.btn-light:after {
-  background-color: #1957f3;
+  background-color: rebeccapurple;
 }
 button.btn-light:hover span, a.btn-light:hover span {
   color: #fff;
@@ -228,7 +223,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 }
 .section-title p {
   position: relative;
-  background-color: #1957f3;
+  background-color: rebeccapurple;
   color: #fff;
   display: inline-block;
   margin-bottom: 5px;
@@ -242,7 +237,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   position: absolute;
   top: 0;
   bottom: 0;
-  border: 11px solid #1957f3;
+  border: 11px solid rebeccapurple;
   z-index: 2;
   left: -12px;
   border-right-width: 11px;
@@ -253,7 +248,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   position: absolute;
   top: 0;
   bottom: 0;
-  border: 11px solid #1957f3;
+  border: 11px solid rebeccapurple;
   z-index: 2;
   right: -12px;
   border-left-width: 11px;
@@ -276,7 +271,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   width: 1px;
   bottom: -30px;
   left: 50%;
-  background-color: #1957f3;
+  background-color: rebeccapurple;
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
 }
@@ -304,7 +299,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   z-index: 1030;
 }
 .navbar .active {
-  color: #1957f3 !important;
+  color: #1096cd !important;
 }
 .navbar .navbar-brand {
   width: 90px;
@@ -438,6 +433,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 .header {
   position: relative;
   background-attachment: fixed;
+  background-color: red;
   height: 100vh;
   width: 100%;
   z-index: 888;
@@ -557,7 +553,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   position: absolute;
   width: 0;
   height: 100%;
-  background-color: #1957f3;
+  background-color: rebeccapurple;
   border-radius: 4px;
   -webkit-transition: all 3s;
   transition: all 3s;
@@ -577,7 +573,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   height: 0;
   border-left: 3px solid transparent;
   border-right: 3px solid transparent;
-  border-top: 5px solid #1957f3;
+  border-top: 5px solid rebeccapurple;
   position: absolute;
   top: -12px;
   right: -4px;
@@ -653,7 +649,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 }
 .services .services-box .icon i {
   display: inline-block;
-  color: #1957f3;
+  color: rebeccapurple;
   font-size: 38px;
 }
 .services .services-box .text {
@@ -684,6 +680,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 .hire-me {
   position: relative;
   background-attachment: fixed;
+  background-color: red;
 }
 .hire-me h2 {
   position: relative;
@@ -720,7 +717,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   transition: all .3s;
 }
 .portfolio .filtering .active {
-  background-color: #1957f3;
+  background-color: rebeccapurple;
   color: #fff;
   border-radius: 28px;
   -webkit-box-shadow: 0px 10px 30px -4px rgba(0, 0, 0, 0.2);
@@ -863,6 +860,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 .testimonial {
   position: relative;
   background-attachment: fixed;
+  background-color: red;
 }
 .testimonial .section-title h3 {
   color: #fff;
@@ -878,7 +876,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   margin-bottom: 20px;
 }
 .testimonial .testimonial-item .icon i {
-  color: #1957f3;
+  color: rebeccapurple;
   font-size: 30px;
 }
 .testimonial .testimonial-item p {
@@ -961,7 +959,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   bottom: -16px;
 }
 .blog .blog-item .part-img .post-info-category a {
-  background-color: #1957f3;
+  background-color: rebeccapurple;
   height: 33px;
   padding: 7px 19px;
   color: #fff;
@@ -1042,6 +1040,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 -------------------------------------------------------- */
 .contact {
   position: relative;
+  background-color: red;
   background-attachment: fixed;
 }
 .contact .section-title h3 {
@@ -1134,7 +1133,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 .footer {
   position: relative;
   background-color: #212121;
-  padding: 80px 0;
+  padding: 30px 0;
 }
 .footer .logo {
   display: block;
