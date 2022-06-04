@@ -89,6 +89,7 @@ button.btn, a.btn {
 }
 button.btn span, a.btn span {
   display: inline-block;
+  font-weight: 600;
   position: relative;
   border-radius: 3px;
   z-index: 1;
