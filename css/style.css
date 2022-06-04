@@ -657,6 +657,7 @@ button.btn-light:hover:after, a.btn-light:hover:after {
 }
 .services .services-box .text h4 {
   margin-bottom: 15px;
+  font-weight: bold;
 }
 .services .services-box:after {
   content: "";
