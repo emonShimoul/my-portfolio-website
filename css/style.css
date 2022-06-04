@@ -1095,7 +1095,8 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   border-radius: 0;
   width: 100%;
   border: transparent;
-  border: 1px solid rgba(0, 0, 0, 0.28);
+  /* border: 1px solid rgba(0, 0, 0, 0.28); */
+  border: 1px solid #244654;
   margin-bottom: 15px;
   font-size: 12px;
 }
