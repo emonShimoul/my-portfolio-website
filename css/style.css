@@ -1127,7 +1127,8 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   color: #fff !important;
 }
 .contact .contact-form button.btn, .contact .contact-form a.btn {
-  background-color: rgba(63, 71, 71, 0.38);
+  /* background-color: rgba(63, 71, 71, 0.38); */
+  background-color: #167aa3;
   border: 1px solid rgba(0, 0, 0, 0.28);
 }
 
