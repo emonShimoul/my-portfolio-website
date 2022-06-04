@@ -1069,7 +1069,6 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   font-size: 38px;
 }
 .contact .part-info .info-block h5 {
-  /* color: #fff; */
   color: #2099cb;
   font-size: 16px;
   font-weight: 600;
@@ -1127,7 +1126,6 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   color: #fff !important;
 }
 .contact .contact-form button.btn, .contact .contact-form a.btn {
-  /* background-color: rgba(63, 71, 71, 0.38); */
   background-color: #167aa3;
   border: 1px solid rgba(0, 0, 0, 0.28);
 }
