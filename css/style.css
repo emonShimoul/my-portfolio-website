@@ -1179,10 +1179,8 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   padding-top: 30px;
 }
 .footer .cop h6 {
-  /* color: #999; */
   color: #b7aeae;
   font-size: 14px;
-  /* font-weight: 400; */
   font-weight: 500;
   letter-spacing: 2px;
 }
