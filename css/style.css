@@ -1095,7 +1095,6 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   border-radius: 0;
   width: 100%;
   border: transparent;
-  /* border: 1px solid rgba(0, 0, 0, 0.28); */
   border: 1px solid #244654;
   margin-bottom: 15px;
   font-size: 12px;
@@ -1159,7 +1158,6 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   line-height: 40px;
   border-radius: 50%;
   margin-right: 10px;
-  /* background-color: #252525; */
   background-color: #2b5464;
   -webkit-transition: all .5s ease;
   transition: all .5s ease;
@@ -1169,7 +1167,6 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   font-size: 14px;
 }
 .footer .scoial-icon a:hover {
-  /* background-color: #1957f3; */
   background-color: #588597;
 }
 .footer .scoial-icon a:hover i {
