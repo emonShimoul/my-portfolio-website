@@ -1068,7 +1068,8 @@ button.btn-light:hover:after, a.btn-light:hover:after {
   font-size: 38px;
 }
 .contact .part-info .info-block h5 {
-  color: #fff;
+  /* color: #fff; */
+  color: #2099cb;
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 10px;
